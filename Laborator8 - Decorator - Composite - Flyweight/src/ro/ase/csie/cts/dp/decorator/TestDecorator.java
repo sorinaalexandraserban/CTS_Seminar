@@ -22,7 +22,7 @@ public class TestDecorator {
 		dragon.esteLovit(400);
 		
 		dragon = new DecoratorEsteRanit(dragon);
-		dragon.esteLovit(600);
+		dragon.esteLovit(400);
 		dragon.alearga();
 	}
 
