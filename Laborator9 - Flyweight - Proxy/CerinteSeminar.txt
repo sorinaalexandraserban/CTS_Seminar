@@ -12,9 +12,3 @@
 - exista atacuri asupra conturilor jucatorilor iar atacatorul ghiceste parola aferenta contului dupa mai multe incercari
 - se doreste modificarea modulului de login prin limitarea numarului de incercari la maxim 3
 - modulul de login existent trebuie modificat fara a intrerupe jocul
-
-3. STRATEGY
-      In functie de implicarea in joc (timp petrecut, activitate in timpul jocului, etc) jucatorii primesc puncte bonus.
-Aceasta strategie este stabilita de departamentul de marketing si se modifica in functie de alte campanii, perioada anului, etc.
-Sa se regaseasca o solutie care sa permita:
--modificarea strategiei de acordare a bonusului la runtime fara a modifica implmentarea jocului
