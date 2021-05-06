@@ -8,3 +8,9 @@ Sa se regaseasca o solutie care sa permita:
       Comportamentul caracterul este influentat de stare lui
 - daca acesta este ranit miscarile sunt afectate
 - daca este afectat de actiunile magice ale celorlalte caractere, actiunile acestuia (modul in care ataca, se apara) sunt afectate
+
+3. CHAIN
+     Jocul are un chat intern
+- vrem sa filtram comentariile / mesajele care nu sunt potrivite
+- mesajele destinate unui anumit player vor fi private
+- difuzare mesaje destinate tuturor
